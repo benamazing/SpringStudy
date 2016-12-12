@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/spring-beans-3.2.17.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.2.17.RELEASE.jar" sourcepath="D:/development/java_libs/spring-framework-3.2.17.RELEASE-dist/spring-framework-3.2.17.RELEASE/libs/spring-context-3.2.17.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-3.2.17.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-support-3.2.17.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-3.2.17.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-3.2.17.RELEASE.jar" sourcepath="D:/development/java_libs/spring-framework-3.2.17.RELEASE-dist/spring-framework-3.2.17.RELEASE/libs/spring-aop-3.2.17.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-3.2.17.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-alpha1.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar" sourcepath="D:/development/java_libs/aopalliance-1.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
